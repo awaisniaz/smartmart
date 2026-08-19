@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,cost_price,selling_price,supplier_id
+P0001,Product_0001,Household,HomePlus,1034.77,1487.83,SUP013
+P0002,Product_0002,Snacks,FreshCo,515.18,649.15,SUP003
+P0003,Product_0003,Household,Alpha,1070.94,1493.65,SUP009
+P0004,Product_0004,Snacks,HomePlus,1028.57,1201.4,SUP017
+P0005,Product_0005,Beverages,ValueMart,1125.98,1400.69,SUP017
+P0006,Product_0006,Personal Care,Alpha,953.14,1281.81,SUP020
+P0007,Product_0007,Personal Care,FreshCo,819.34,940.95,SUP016
+P0008,Product_0008,Personal Care,Prime,717.79,822.92,SUP013
+P0009,Product_0009,Household,DailyChoice,478.13,688.19,SUP019
+P0010,Product_0010,Beverages,FreshCo,1131.15,1527.17,SUP017
+P0011,Product_0011,Household,HomePlus,1169.71,1303.49,SUP004
+P0012,Product_0012,Household,Alpha,376.51,466.72,SUP012
+P0013,Product_0013,Beverages,DailyChoice,401.17,502.16,SUP009
+P0014,Product_0014,Beverages,Alpha,608.46,827.76,SUP019
+P0015,Product_0015,Beverages,HomePlus,565.69,671.93,SUP012
+P0016,Product_0016,Beverages,Alpha,1193.63,1390.0,SUP009
+P0017,Product_0017,Personal Care,Prime,252.31,284.68,SUP007
+P0018,Product_0018,Dairy,DailyChoice,70.79,88.48,SUP014
+P0019,Product_0019,Dairy,DailyChoice,617.98,828.7,SUP020
+P0020,Product_0020,Beverages,HomePlus,255.65,286.42,SUP019
+P0021,Product_0021,Dairy,Prime,471.44,669.6,SUP015
+P0022,Product_0022,Dairy,FreshCo,905.8,1136.62,SUP016
+P0023,Product_0023,Beverages,Alpha,879.08,1040.77,SUP005
+P0024,Product_0024,Dairy,ValueMart,404.27,457.98,SUP003
+P0025,Product_0025,Household,Alpha,673.92,784.44,SUP012
+P0026,Product_0026,Snacks,Alpha,635.14,906.42,SUP020
+P0027,Product_0027,Snacks,FreshCo,781.78,1034.6,SUP004
+P0028,Product_0028,Beverages,Alpha,338.03,432.96,SUP016
+P0029,Product_0029,Personal Care,Prime,728.35,968.7,SUP007
+P0030,Product_0030,Beverages,Prime,1175.73,1472.58,SUP013
+P0031,Product_0031,Personal Care,DailyChoice,609.75,826.52,SUP010
+P0032,Product_0032,Snacks,HomePlus,1092.01,1219.45,SUP007
+P0033,Product_0033,Beverages,ValueMart,549.55,713.38,SUP014
+P0034,Product_0034,Grocery,Alpha,452.59,522.98,SUP005
+P0035,Product_0035,Household,Alpha,791.87,904.36,SUP003
+P0036,Product_0036,Dairy,FreshCo,819.26,999.22,SUP011
+P0037,Product_0037,Personal Care,HomePlus,1043.79,1181.71,SUP011
+P0038,Product_0038,Grocery,Prime,314.71,356.55,SUP018
+P0039,Product_0039,Dairy,ValueMart,624.07,754.5,SUP015
+P0040,Product_0040,Dairy,DailyChoice,707.8,1021.23,SUP012
+P0041,Product_0041,Beverages,Prime,933.84,1084.53,SUP009
+P0042,Product_0042,Dairy,HomePlus,100.14,110.76,SUP010
+P0043,Product_0043,Household,DailyChoice,1193.73,1632.04,SUP012
+P0044,Product_0044,Grocery,FreshCo,590.44,816.24,SUP017
+P0045,Product_0045,Dairy,FreshCo,371.49,453.67,SUP006
+P0046,Product_0046,Beverages,Alpha,1066.02,1346.0,SUP007
+P0047,Product_0047,Household,HomePlus,909.88,1207.79,SUP014
+P0048,Product_0048,Snacks,ValueMart,1146.03,1279.91,SUP013
+P0049,Product_0049,Grocery,DailyChoice,430.36,616.36,SUP008
+P0050,Product_0050,Dairy,Prime,685.68,967.04,SUP010
+P0051,Product_0051,Beverages,HomePlus,708.14,843.62,SUP009
+P0052,Product_0052,Snacks,HomePlus,1177.38,1301.42,SUP018
+P0053,Product_0053,Snacks,FreshCo,136.65,194.96,SUP002
+P0054,Product_0054,Personal Care,Alpha,401.55,512.12,SUP005
+P0055,Product_0055,Household,Alpha,269.55,347.39,SUP005
+P0056,Product_0056,Dairy,DailyChoice,358.75,480.51,SUP006
+P0057,Product_0057,Beverages,FreshCo,608.07,799.95,SUP019
+P0058,Product_0058,Personal Care,HomePlus,478.59,684.56,SUP008
+P0059,Product_0059,Household,ValueMart,503.9,720.82,SUP016
+P0060,Product_0060,Personal Care,FreshCo,1020.85,1432.78,SUP013
+P0061,Product_0061,Grocery,DailyChoice,1119.52,1480.84,SUP001
+P0062,Product_0062,Household,DailyChoice,130.98,180.8,SUP020
+P0063,Product_0063,Household,FreshCo,290.26,388.08,SUP017
+P0064,Product_0064,Dairy,DailyChoice,821.82,1068.92,SUP007
+P0065,Product_0065,Household,FreshCo,462.44,529.48,SUP013
+P0066,Product_0066,Personal Care,Prime,342.29,473.7,SUP004
+P0067,Product_0067,Household,FreshCo,389.58,540.43,SUP004
+P0068,Product_0068,Dairy,FreshCo,420.93,555.24,SUP006
+P0069,Product_0069,Dairy,DailyChoice,1025.97,1423.17,SUP019
+P0070,Product_0070,Grocery,DailyChoice,207.11,275.05,SUP012
+P0071,Product_0071,Personal Care,Alpha,865.25,1014.37,SUP007
+P0072,Product_0072,Snacks,Alpha,685.74,820.07,SUP010
+P0073,Product_0073,Snacks,Prime,390.99,459.45,SUP019
+P0074,Product_0074,Household,Alpha,532.75,656.37,SUP007
+P0075,Product_0075,Grocery,FreshCo,344.64,383.8,SUP003
+P0076,Product_0076,Beverages,DailyChoice,753.24,991.56,SUP013
+P0077,Product_0077,Household,Alpha,143.83,175.16,SUP013
+P0078,Product_0078,Grocery,Alpha,55.96,74.4,SUP018
+P0079,Product_0079,Personal Care,Prime,772.08,953.43,SUP020
+P0080,Product_0080,Personal Care,HomePlus,273.42,365.99,SUP008
+P0081,Product_0081,Personal Care,Prime,131.58,160.42,SUP009
+P0082,Product_0082,Personal Care,FreshCo,506.3,603.13,SUP007
+P0083,Product_0083,Personal Care,DailyChoice,108.38,138.03,SUP001
+P0084,Product_0084,Grocery,Prime,1069.61,1435.96,SUP003
+P0085,Product_0085,Grocery,Alpha,81.76,99.9,SUP013
+P0086,Product_0086,Dairy,DailyChoice,715.69,1021.88,SUP017
+P0087,Product_0087,Snacks,DailyChoice,554.25,617.28,SUP001
+P0088,Product_0088,Personal Care,Alpha,822.83,1025.48,SUP006
+P0089,Product_0089,Beverages,Prime,427.38,614.85,SUP006
+P0090,Product_0090,Grocery,Alpha,228.3,294.92,SUP012
+P0091,Product_0091,Beverages,HomePlus,1179.12,1471.8,SUP013
+P0092,Product_0092,Beverages,DailyChoice,1014.77,1318.17,SUP013
+P0093,Product_0093,Beverages,ValueMart,1039.47,1352.95,SUP015
+P0094,Product_0094,Dairy,ValueMart,337.79,458.07,SUP016
+P0095,Product_0095,Grocery,FreshCo,94.66,108.36,SUP011
+P0096,Product_0096,Beverages,Alpha,398.76,473.53,SUP005
+P0097,Product_0097,Personal Care,Alpha,667.64,870.06,SUP004
+P0098,Product_0098,Household,FreshCo,425.65,597.4,SUP003
+P0099,Product_0099,Beverages,FreshCo,1002.05,1299.31,SUP019
+P0100,Product_0100,Dairy,FreshCo,362.27,428.75,SUP020
