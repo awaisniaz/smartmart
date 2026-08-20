@@ -1,5 +1,9 @@
 
+import matplotlib
+matplotlib.use("TkAgg")
+
 import matplotlib.pyplot as plt
+import pandas as pd
 from utlity_functions import loadData
 
 
@@ -38,20 +42,30 @@ def inspect_data():
 #     ["count", "mean", "median", "std", "min", "max"]
 # ).sort_values("mean", ascending=False))
 
-    product_demand = data.groupby("product_id")["quantity_sold"].agg(
-    ["count", "mean", "median", "std", "min", "max"]
-     ).sort_values("mean", ascending=False)  
+    # product_demand = data.groupby("product_id")["quantity_sold"].agg(
+    # ["count", "mean", "median", "std", "min", "max"]
+    #  ).sort_values("mean", ascending=False)  
 
-    print(product_demand.head(20))
+    # print(product_demand.head(20))
 
-    store_demand = data.groupby("store_id")["quantity_sold"].agg(["count", "mean", "median", "std", "min", "max"]).sort_values("mean", ascending=False)
-    print(store_demand.head(20))
+    # store_demand = data.groupby("store_id")["quantity_sold"].agg(["count", "mean", "median", "std", "min", "max"]).sort_values("mean", ascending=False)
+    # print(store_demand.head(20))
 
-    store_product_demand = data.groupby(["store_id", "product_id"])["quantity_sold"].agg(
-    ["count", "mean", "median", "std", "min", "max"]
-    ).sort_values("mean", ascending=False)
-    print(store_product_demand.head(20))
-
+    # store_product_demand = data.groupby(["store_id", "product_id"])["quantity_sold"].agg(
+    # ["count", "mean", "median", "std", "min", "max"]
+    # ).sort_values("mean", ascending=False)
+    # print(store_product_demand.head(20))
+    data["date"] = pd.to_datetime(data["date"])
+    print(data["date"].min(), data["date"].max())
+    print(data["date"].dtype)
+    daily_demand = data.groupby("date")["quantity_sold"].sum()
+    print(daily_demand.head())
+    plt.figure(figsize=(14,5))
+    daily_demand.plot()
+    plt.title("Daily Total Demand")
+    plt.xlabel("Date")
+    plt.ylabel("Quantity Sold")
+    plt.show()
 inspect_data()
 
 def dataVisualization():
